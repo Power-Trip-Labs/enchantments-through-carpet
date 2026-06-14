@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:all_carpets",
+        "#minecraft:amethyst_buds",
+        "#minecraft:candles",
+        "#minecraft:lanterns",
+        "#minecraft:all_torches",
+        "#minecraft:slabs",
+        "#minecraft:stairs",
+        "#minecraft:wall_signs",
+        "#minecraft:transparent",
+        "minecraft:snow"
+    ]
+}
