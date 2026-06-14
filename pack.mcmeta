@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": "Datapack that lets you enchant through carpet, and more blocks!",
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 107.1
+    },
+    "min_format": 15,
+    "max_format": [
+      107,
+      1
+    ]
+  }
+}
